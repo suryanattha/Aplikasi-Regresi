@@ -1,0 +1,1 @@
+Aplikasi Implementasi Regresi Linear dan Eksponensial untuk menganalisis hubungan antara jumlah latihan soal (NL) dan nilai ujian siswa (NT). Data yang digunakan berasal dari dataset "Student Performance" di Kaggle.
